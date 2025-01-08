@@ -130,7 +130,7 @@ export const menuItems = [
   {
     id: 6,
     title: "PORTFOLIO",
-    link: "/project-3",
+    link: "#",
   },
   {
     id: 2,
